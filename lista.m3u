@@ -3,6 +3,9 @@
 
 # --- ARGENTINA ---
 
+#EXTINF:-1 tvg-name="YouTube Live" group-title="YouTube",YouTube Live
+https://www.youtube.com/live/sxBrvZ-txcA
+
 #EXTINF:-1 tvg-name="CANAL 8 SALTA 720p" group-title="Argentina",CANAL 8 SALTA
 https://canal11saltatv.unpocodeawita.workers.dev/
 
